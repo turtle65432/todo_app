@@ -1,8 +1,27 @@
 
 h1{
-    color: green;
+    color: black;
 }
 
 .chicken {
-    color: orange;
+    color: white;
+}
+#turtle{
+    color:white;
+    
+}
+body{
+    padding-left: 40px;
+    padding-right:40px;
+    background-color:black;
+    
+}
+.body2{
+    background-image:url(https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAteAAAAJGUzNjBiYjk5LWU5OWItNDc0Ny1iYjRhLTU3YzY2Y2EwZWE4Yw.jpg);
+    padding: 40px;
+    background-position: center;
+}
+.body3{
+    background-color:black;
+    color:white;
 }
